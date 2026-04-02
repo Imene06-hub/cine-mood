@@ -8,9 +8,10 @@ Bienvenue sur **CineMood**, un mini-site web dynamique développé en PHP qui pe
 CineMood est un **projet personnel** que j'ai entièrement réalisé sur mon temps libre. Mon objectif principal était de **découvrir et d'apprendre les bases du développement backend avec PHP**, en créant un cas d'usage concret et fonctionnel qui me passionne (le cinéma). 
 
 Ce projet m'a permis de comprendre concrètement la logique de la programmation côté serveur, la gestion des requêtes, et la manipulation de données.
-
+<img width="960" height="530" alt="la page" src="https://github.com/user-attachments/assets/1d8188ef-4583-4f17-aa9d-5fa10633aa61" />
 
 ##  Fonctionnalités implémentées
+
 
 - **Architecture centralisée** : Utilisation d'un contrôleur principal (`index.php`) pour charger dynamiquement le contenu des pages.
 - **Gestion des données (CRUD basique)** : Lecture, ajout et modification d'avis via un formulaire.
