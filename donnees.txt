@@ -1,0 +1,5 @@
+1|The Notebook|film|2004|4.6||J'ai adoré le film.
+2|Me Before You|film|2016|3|Très émouvant,Les acteurs sont incroyables
+3|Divergent|film|2014|4|Super univers dystopique,Très bon casting
+4|How I Met Your Mother|série|2005|4.8|Incroyable cette série!Barney est  hilarant. La fin parcontre  m'a dévastée..Booklyn nine nine|serie|2003|3.7|drôle mais bon
+
